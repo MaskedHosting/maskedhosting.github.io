@@ -6,7 +6,8 @@
         {
             "label": "push",
             "type": "shell",
-            "command": "git push origin main" 
+            "command": "git push origin master",
+            "problemMatcher": []
         }
     ]
 }
